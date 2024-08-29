@@ -38,7 +38,7 @@ def main():
 
         elif choice == "2":
             date = get_date(
-                "Start date from 2008-01 to 2019-02 (YYYY-MM): ", False, True
+                "Enter date from 2008-01 to 2019-02 (YYYY-MM): ", False, True
             )
             csv_handler.CSV.get_constituent_data(date)
 
