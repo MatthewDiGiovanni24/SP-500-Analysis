@@ -2,7 +2,7 @@ This project analyzes data of the S&P 500 constituents over a period of 10 years
 Features:
 Graphing prices of stocks using Matplotlib and the Yahoo Finance API
 
-<img width="427" alt="joinleft" src="https://github.com/user-attachments/assets/f8cb576f-942c-4b9d-b5e6-5f7f23fb9659">
+<img width="472" alt="stockprice" src="https://github.com/user-attachments/assets/87656399-f328-404d-bf7d-02f241d56a5d">
 
 Identifies which constituents joined or left the S&P 500 on a given date
 
