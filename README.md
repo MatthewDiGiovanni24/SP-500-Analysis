@@ -1,4 +1,5 @@
 This project analyzes data of the S&P 500 constituents over a period of 10 years
+
 Features:
 Graphing prices of stocks using Matplotlib and the Yahoo Finance API
 
